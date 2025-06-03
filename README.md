@@ -16,3 +16,8 @@
 - - - 
 # misc-pwsh
 - Archive of unpolished, small scripts and utilities ive created over time.
+- <p>
+  <a href="https://github.com/nodev7/misc-pwsh/tree/main/modules">Modules Folder</a> |
+  <a href="https://github.com/nodev7/misc-pwsh/tree/main/scripts">Scripts Folder</a>
+</p>
+
