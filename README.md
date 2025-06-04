@@ -1,4 +1,4 @@
-q<p>
+<p>
   <a href="https://github.com/nodev7/Seraph/stargazers">
     <img src="https://img.shields.io/github/stars/nodev7/Seraph?style=social">
   </a>
