@@ -1,4 +1,4 @@
-<p>
+q<p>
   <a href="https://github.com/nodev7/Seraph/stargazers">
     <img src="https://img.shields.io/github/stars/nodev7/Seraph?style=social">
   </a>
@@ -17,7 +17,7 @@
 # misc-pwsh
 - Archive of unpolished, small scripts and utilities ive created over time.
 - <p>
-  <a href="https://github.com/nodev7/misc-pwsh/tree/main/modules">Modules Folder</a> |
-  <a href="https://github.com/nodev7/misc-pwsh/tree/main/scripts">Scripts Folder</a>
+  <a href="https://github.com/nodev7/misc-pwsh/tree/main/modules">modles Folder</a> |
+  <a href="https://github.com/nodev7/misc-pwsh/tree/main/scripts">scripts Folder</a>
 </p>
 
